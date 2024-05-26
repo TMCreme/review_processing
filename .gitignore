@@ -1,0 +1,16 @@
+*.terraform*
+realtonsoft*
+__pycache__
+
+.env
+venv
+gx
+.DS_Store
+*.pdf
+Trivago*
+
+terraform*
+data_validation.py
+data_validation2.py
+
+
